@@ -1,0 +1,20 @@
+#!/bin/bash
+
+clear
+echo "This script will give us some environment variables"
+echo "==================================================="
+echo "Hello Your Username is : $USER"
+echo ""
+echo "Your Home Directory is : $HOME"
+echo ""
+echo "Your Shell is : $SHELL"
+echo ""
+echo "your History File will Ignore : $HISTCONTROL"
+echo ""
+echo "Hist Size is : $HISTSIZE"
+echo ""
+echo "Your on this Host : $HOSTNAME"
+echo ""
+echo "Your Terminal Session Type is : $TERM"
+echo ""
+echo "========================================================="
